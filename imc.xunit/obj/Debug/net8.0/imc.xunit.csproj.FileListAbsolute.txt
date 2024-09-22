@@ -1,0 +1,5 @@
+C:\Users\Duda\OneDrive\Desktop\UC14 - UC15\Testes.XUnit\imc.xunit\obj\Debug\net8.0\imc.xunit.csproj.AssemblyReference.cache
+C:\Users\Duda\OneDrive\Desktop\UC14 - UC15\Testes.XUnit\imc.xunit\obj\Debug\net8.0\imc.xunit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duda\OneDrive\Desktop\UC14 - UC15\Testes.XUnit\imc.xunit\obj\Debug\net8.0\imc.xunit.AssemblyInfoInputs.cache
+C:\Users\Duda\OneDrive\Desktop\UC14 - UC15\Testes.XUnit\imc.xunit\obj\Debug\net8.0\imc.xunit.AssemblyInfo.cs
+C:\Users\Duda\OneDrive\Desktop\UC14 - UC15\Testes.XUnit\imc.xunit\obj\Debug\net8.0\imc.xunit.csproj.CoreCompileInputs.cache
